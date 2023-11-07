@@ -10,5 +10,5 @@ makedocs(sitename = "MamboPower.jl",
         )
 
 deploydocs(
-    repo = "github.com/MamboPower/MamboPower.jl.git",
+    repo = "github.com/MamboHill/MamboPower.jl.git",
 )
